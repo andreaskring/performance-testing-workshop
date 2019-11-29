@@ -16,7 +16,7 @@ def fib(n):
 @app.route('/fib')
 def hello_world():
     n = flask.request.args.get('n', 10)
-    return flask.jsonify({'fib({})'.format(n): fib(int(n))})
+    return flask.jsonify({'fib': fib(int(n))})
 
 
 if __name__ == '__main__':
