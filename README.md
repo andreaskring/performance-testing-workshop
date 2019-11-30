@@ -93,3 +93,17 @@ Start JMeter og gør følgende:
     Fibonacci-funktionen).
 
 Et eksempel på en testplan, som kan bruges sammenligning, kan findes i mappen [jmeter/ex1.jmx](jmeter/ex1.jmx).
+
+
+## Ex 2
+
+setUp thread group for making users
+
+make random file name - upload file to Shared
+
+download file
+
+delete file again
+
+## Ex 3
+Recording - se JMeter tutorial
