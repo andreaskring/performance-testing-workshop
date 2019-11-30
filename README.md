@@ -63,7 +63,7 @@ $ curl http://localhost:8080/fib?n=7
 
 ### JMeter
 
-Gør følgende:
+Start JMeter og gør følgende:
 
 1. Tilføj en _Thread Group_ til testplanen.
 2. Tilføj en _Simple Controller_ til trådgruppen.
@@ -92,4 +92,4 @@ Gør følgende:
     passende parametre for at afgøre dette - inkl. værdien af n, som fodres ind i 
     Fibonacci-funktionen).
 
-Et eksempel på en testplan, som kan bruges sammenligning, kan findes i mappen `jmeter/ex1.jmx`.
+Et eksempel på en testplan, som kan bruges sammenligning, kan findes i mappen [jmeter/ex1.jmx](jmeter/ex1.jmx).
