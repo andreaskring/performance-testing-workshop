@@ -72,7 +72,3 @@ Start JMeter og gør følgende:
     Fibonacci-funktionen).
 
 Et eksempel på en testplan, som kan bruges sammenligning, kan findes i mappen [jmeter/ex1.jmx](jmeter/ex1.jmx).
-
-
-## Ex 3
-R

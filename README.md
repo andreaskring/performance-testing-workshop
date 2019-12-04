@@ -21,4 +21,5 @@ dette vha. instruktionerne [her](https://docs.docker.com/install/linux/docker-ce
 ## Øvelser
 
 [Ex 1](exercises/ex1.md)<br />
-[Ex 2](exercises/ex2.md)
+[Ex 2](exercises/ex2.md)<br />
+[Ex 3](exercises/ex3.md)
